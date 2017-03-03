@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EpoxyExample</string>
+    <string name="title_main_activity">Catalog</string>
+    <string name="article_description_text">Description</string>
+    <string name="article_recommendation_text">You\'re gonna like</string>
+    <string name="article_brand_offer_text">See more</string>
+</resources>
